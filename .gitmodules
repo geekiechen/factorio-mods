@@ -10,3 +10,9 @@
 [submodule "chens-modpack-py-auxiliary-others"]
 	path = chens-modpack-py-auxiliary-others
 	url = https://github.com/xiaochen2005/chens-modpack-py-auxiliary-others.git
+[submodule "chens-py-land-block-mod"]
+	path = chens-py-land-block-mod
+	url = https://github.com/xiaochen2005/chens-py-land-block-mod.git
+[submodule "chens-py-sea-block-mod"]
+	path = chens-py-sea-block-mod
+	url = https://github.com/xiaochen2005/chens-py-sea-block-mod.git
