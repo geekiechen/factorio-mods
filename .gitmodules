@@ -16,3 +16,6 @@
 [submodule "chens-py-sea-block-mod"]
 	path = chens-py-sea-block-mod
 	url = https://github.com/xiaochen2005/chens-py-sea-block-mod.git
+[submodule "chens-arcosphere-mod"]
+	path = chens-arcosphere-mod
+	url = https://github.com/xiaochen2005/chens-arcosphere-mod
