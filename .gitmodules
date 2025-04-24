@@ -1,18 +1,21 @@
 [submodule "chens-tweak-mod"]
 	path = chens-tweak-mod
-	url = https://github.com/xiaochen2005/chens-tweak-mod.git
+	url = https://github.com/geekiechen/chens-tweak-mod.git
 [submodule "chens-modpack-py"]
 	path = chens-modpack-py
-	url = https://github.com/xiaochen2005/chens-modpack-py.git
+	url = https://github.com/geekiechen/chens-modpack-py.git
 [submodule "chens-modpack-auxiliary"]
 	path = chens-modpack-auxiliary
-	url = https://github.com/xiaochen2005/chens-modpack-auxiliary.git
+	url = https://github.com/geekiechen/chens-modpack-auxiliary.git
 [submodule "chens-modpack-py-auxiliary-others"]
 	path = chens-modpack-py-auxiliary-others
-	url = https://github.com/xiaochen2005/chens-modpack-py-auxiliary-others.git
+	url = https://github.com/geekiechen/chens-modpack-py-auxiliary-others.git
 [submodule "chens-py-land-block-mod"]
 	path = chens-py-land-block-mod
-	url = https://github.com/xiaochen2005/chens-py-land-block-mod.git
+	url = https://github.com/geekiechen/chens-py-land-block-mod.git
 [submodule "chens-py-sea-block-mod"]
 	path = chens-py-sea-block-mod
-	url = https://github.com/xiaochen2005/chens-py-sea-block-mod.git
+	url = https://github.com/geekiechen/chens-py-sea-block-mod.git
+[submodule "chens-waterfill-mod"]
+	path = chens-waterfill-mod
+	url = https://github.com/geekiechen/chens-waterfill-mod.git
