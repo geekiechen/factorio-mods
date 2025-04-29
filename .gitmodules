@@ -19,3 +19,6 @@
 [submodule "chens-waterfill-mod"]
 	path = chens-waterfill-mod
 	url = https://github.com/geekiechen/chens-waterfill-mod.git
+[submodule "chens-color-tile-mod"]
+	path = chens-color-tile-mod
+	url = https://github.com/geekiechen/chens-color-tile-mod.git
