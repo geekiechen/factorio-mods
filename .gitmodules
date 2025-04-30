@@ -22,3 +22,6 @@
 [submodule "chens-color-tile-mod"]
 	path = chens-color-tile-mod
 	url = https://github.com/geekiechen/chens-color-tile-mod.git
+[submodule "chens-py-sea-block-mod-core"]
+	path = chens-py-sea-block-mod-core
+	url = https://github.com/geekiechen/chens-py-sea-block-mod-core.git
